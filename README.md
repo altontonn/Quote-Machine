@@ -13,7 +13,6 @@
 - [👥 Author](#author)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 
@@ -129,12 +128,6 @@ Feel free to check the [issues page](https://github.com/altontonn/Quote-Machine/
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://github.com/altontonn/Quote-Machine/blob/dev/LICENSE) licensed.
