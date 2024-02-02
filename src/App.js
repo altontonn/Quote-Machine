@@ -4,25 +4,6 @@ import './App.css';
 
 const App = () => {
   const [bodyBackgroundColors, setBodyBackgroundColors] = useState('#0d6efd');
-  // componentDidMount() {
-  //   const { bodyBackgroundColors } = this.state;
-  //   document.body.style.transition = 'background-color 0.5s';
-  //   document.body.style.color = bodyBackgroundColors;
-  //   document.body.style.backgroundColor = bodyBackgroundColors;
-  // }
-
-  // componentDidUpdate(_, prevState) {
-  //   const { bodyBackgroundColors } = this.state;
-  //   if (prevState.bodyBackgroundColors !== bodyBackgroundColors) {
-  //     document.body.style.backgroundColor = bodyBackgroundColors;
-  //     document.body.style.color = bodyBackgroundColors;
-  //   }
-  //   const icons = document.querySelectorAll('.fa-brands');
-  //   icons.forEach((icon) => {
-  //     // eslint-disable-next-line no-param-reassign
-  //     icon.style.color = bodyBackgroundColors;
-  //   });
-  // }
 
   const getRandomColor = () => {
     const letters = '0123456789ABCDEF';
