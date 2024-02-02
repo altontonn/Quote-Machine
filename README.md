@@ -94,6 +94,8 @@ Clone this repository to your desired folder:
   git clone https://github.com/altontonn/Quote-Machine.git
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Install
 Install this project with:
 
@@ -103,23 +105,19 @@ Install this project with:
   yarn install
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Usage
 *  Run `npm start` to start the server.
 
+## 👥 Author <a name="author"></a>
+<br>
 
-## Authors
+👤 **Newton Alumasa**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- [GitHub](https://github.com/altontonn/)
+- [LinkedIn](https://www.linkedin.com/in/newton-alumasa/)
+- [Twitter](https://twitter.com/AlumasaNewton)
 
 ## 🤝 Contributing
 
