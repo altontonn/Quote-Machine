@@ -19,14 +19,27 @@
 
 # Random Quote Machine
 
-> Description the project.
+**[Random Quote Machine]** A quote machine that showcases the author of a random quote on the UI and presents the quotes' authors
 
 
-## Built With
+## 🛠 Built With <a name="built-with"></a>
 
-- Major languages
-- Frameworks
-- Technologies used
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>React</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Bootstrap</summary>
+  <ul>
+    <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+  </ul>
+</details>
+
 
 ## Live Demo (if available)
 
