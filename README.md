@@ -40,19 +40,50 @@
   </ul>
 </details>
 
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Display the random quotes**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
 
+<!-- GETTING STARTED -->
 
-## Getting Started
+## 💻 Getting Started <a name="getting-started"></a>
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy up and running, follow these steps.
 
+### Prerequisites
 
-To get a local copy up and running follow these simple example steps.
+  1. Before you go ahead with this project, please make sure you have:
+    - Basic understanding of HTML and CSS.
+    - JavaScript fundamentals (object, array, conditionals, etc).
+    - Familiarity with JavaScript ES6 features (class syntax, arrow functions, object destructuring etc).
+
+  2. [Node and npm](https://nodejs.org/en/download/) are installed. Here are the versions I'll be using while making this tutorial:
+
+    ```shell
+    $ node --version
+    v16.13.2
+    $ npm --version
+    8.1.2
+    $ yarn --version
+    1.22
+    ```
+    > Installing npm adds two commands to the system—`npm` and `npx`—both of which I'll be using while making this tutorial.
+
+  3. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) is installed. Here's the version I'll be using while making this tutorial:
+
+    ```shell
+    $ git --version
+    git version 2.29.1.windows.1
+    ```
 
 ### Prerequisites
 
