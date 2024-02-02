@@ -85,11 +85,23 @@ To get a local copy up and running, follow these steps.
     git version 2.29.1.windows.1
     ```
 
-### Prerequisites
-
 ### Setup
 
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  git clone https://github.com/altontonn/Quote-Machine.git
+```
+
 ### Install
+Install this project with:
+
+```sh
+  cd quote-machine
+  npm install
+  yarn install
+```
 
 ### Usage
 
