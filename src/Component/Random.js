@@ -1,5 +1,6 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import PropTypes from 'prop-types';
+import $ from 'jquery';
 
 const Random = (props) => {
   const quotes = [
@@ -43,6 +44,13 @@ const Random = (props) => {
   const quoteList = Math.floor(Math.random() * quotes.length);
   const selectedQuote = quotes[quoteList];
   const { changeColors, bodyBackgroundColors } = props;
+  useEffect(() => {
+    $('#new-quote').click(() => {
+      $('#text').fadeIn(400, () => {
+        $('#text').text(selectedQuote.text).fadeIn();
+      });
+    });
+  }, [selectedQuote]);
   return (
     <>
       <section id="quote-box">
