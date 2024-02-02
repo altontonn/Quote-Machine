@@ -107,10 +107,6 @@ Install this project with:
 *  Run `npm start` to start the server.
 
 
-### Deployment
-
-
-
 ## Authors
 
 👤 **Author1**
