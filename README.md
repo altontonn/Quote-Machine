@@ -104,8 +104,8 @@ Install this project with:
 ```
 
 ### Usage
+*  Run `npm start` to start the server.
 
-### Run tests
 
 ### Deployment
 
