@@ -123,7 +123,7 @@ Install this project with:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/altontonn/Quote-Machine/issues).
 
 ## Show your support
 
