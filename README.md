@@ -50,7 +50,7 @@
 
 ## Live Demo (if available)
 
-[live demo](#)
+[live demo](https://quote-slide.netlify.app/)
 
 <!-- GETTING STARTED -->
 
