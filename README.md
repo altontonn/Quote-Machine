@@ -50,7 +50,7 @@
 
 ## Live Demo (if available)
 
-[coming soon](#)
+[live demo](#)
 
 <!-- GETTING STARTED -->
 
